@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bday/static/css/main.967e8321.chunk.css",
+    "main.js": "/bday/static/js/main.55c2bc1c.chunk.js",
+    "main.js.map": "/bday/static/js/main.55c2bc1c.chunk.js.map",
+    "runtime-main.js": "/bday/static/js/runtime-main.2df9ebe7.js",
+    "runtime-main.js.map": "/bday/static/js/runtime-main.2df9ebe7.js.map",
+    "static/js/2.1bd23d29.chunk.js": "/bday/static/js/2.1bd23d29.chunk.js",
+    "static/js/2.1bd23d29.chunk.js.map": "/bday/static/js/2.1bd23d29.chunk.js.map",
+    "static/js/3.c5162d78.chunk.js": "/bday/static/js/3.c5162d78.chunk.js",
+    "static/js/3.c5162d78.chunk.js.map": "/bday/static/js/3.c5162d78.chunk.js.map",
+    "index.html": "/bday/index.html",
+    "static/css/main.967e8321.chunk.css.map": "/bday/static/css/main.967e8321.chunk.css.map",
+    "static/js/2.1bd23d29.chunk.js.LICENSE.txt": "/bday/static/js/2.1bd23d29.chunk.js.LICENSE.txt",
+    "static/js/3.c5162d78.chunk.js.LICENSE.txt": "/bday/static/js/3.c5162d78.chunk.js.LICENSE.txt",
+    "static/media/font.css": "/bday/static/media/digital.236c28ed.ttf",
+    "static/media/amit.97aefcf9.jpeg": "/bday/static/media/amit.97aefcf9.jpeg",
+    "static/media/cheer.ccbe3ded.mp3": "/bday/static/media/cheer.ccbe3ded.mp3",
+    "static/media/momo.c8cf7986.png": "/bday/static/media/momo.c8cf7986.png",
+    "static/media/poke.cde8e363.mp3": "/bday/static/media/poke.cde8e363.mp3",
+    "static/media/wrong.5be1610c.mp3": "/bday/static/media/wrong.5be1610c.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2df9ebe7.js",
+    "static/js/2.1bd23d29.chunk.js",
+    "static/css/main.967e8321.chunk.css",
+    "static/js/main.55c2bc1c.chunk.js"
+  ]
+}
